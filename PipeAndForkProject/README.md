@@ -6,4 +6,4 @@ run the commands:
 gcc filecopy.c -o filecopy
 ./filecopy src.txt dst.txt
 
-These commands will either send an error or success message if the program fails or completes respectively. 
+These commands will either send an error or a success message if the program fails or completes, respectively. 
